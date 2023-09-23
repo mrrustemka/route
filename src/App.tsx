@@ -1,5 +1,5 @@
 import React from "react";
-import { ProductsPage } from "./ProductsPage";
+import { ProductsPage } from "./pages/ProductsPage";
 import "./App.css";
 
 function App() {
